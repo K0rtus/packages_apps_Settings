@@ -71,4 +71,7 @@
     <string name="pattern_custom">Benutzerdefiniert</string>
     <string name="custom_vibration_pattern_title">Benutzerdefiniertes Muster</string>
 
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Screenshot-Shutter-Sound</string>
+
 </resources>
