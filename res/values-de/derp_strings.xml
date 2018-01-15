@@ -74,4 +74,7 @@
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Screenshot-Shutter-Sound</string>
 
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Lautstärke für Klingel- &amp; Benachrichtigungston verknüpfen</string>
+
 </resources>
