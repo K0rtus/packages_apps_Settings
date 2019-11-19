@@ -104,4 +104,8 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Wischen zum Screenshot</string>
     <string name="three_finger_gesture_summary">Wischen Sie mit drei Fingern, um einen Screenshot aufzunehmen</string>
+
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">AOD beim Laden</string>
+    <string name="doze_on_charge_summary">Zeigen Sie beim Laden den AOD-Bildschirm an</string>
 </resources>
