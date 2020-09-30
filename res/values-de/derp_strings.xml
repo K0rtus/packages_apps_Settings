@@ -159,4 +159,8 @@
     <string name="back_height_high_label">Unten</string>
     <string name="back_options_dialog_title">Optionen</string>
     <string name="back_height_message">Höhe des Bildschirms, der als berührbare Region für die Zurück-Geste verwendet wird.</string>
+
+    <!-- Clock style -->
+    <string name="clock_style_title">Stil der Uhranzeige</string>
+    <string name="clock_style_summary">Layout für die Uhr auf dem Sperrbildschirm anpassen</string>
 </resources>
