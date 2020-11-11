@@ -153,4 +153,10 @@
     <string name="device_info_protected_single_press">Tippen um Infos zu zeigen</string>
 
     <string name="background_processes_settings_title">Hintergrundprozesse</string>
+
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Voll</string>
+    <string name="back_height_high_label">Unten</string>
+    <string name="back_options_dialog_title">Optionen</string>
+    <string name="back_height_message">Höhe des Bildschirms, der als berührbare Region für die Zurück-Geste verwendet wird.</string>
 </resources>
